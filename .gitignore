@@ -28,7 +28,6 @@ master.key
 *.rdb
 
 # Ignore env files
-.env
 
 public/uploads
 public/packs*
@@ -99,3 +98,6 @@ CLAUDE.local.md
 # Histoire deployment
 .netlify
 .histoire
+.pnpm-store/*
+local/
+config.bat
