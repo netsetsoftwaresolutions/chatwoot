@@ -28,7 +28,6 @@ master.key
 *.rdb
 
 # Ignore env files
-.env
 
 public/uploads
 public/packs*
@@ -101,3 +100,4 @@ CLAUDE.local.md
 .histoire
 .pnpm-store/*
 local/
+config.bat
